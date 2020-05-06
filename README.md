@@ -19,6 +19,7 @@ allprojects {
 dependencies {
     implementation 'com.github.bamboolife:RxPermissions:1.0.0'
 }
+```
 ## Usage
 
 Create a `RxPermissions` instance :
